@@ -10,3 +10,4 @@
 --platform=linux/arm64 semitechnologies/weaviate:1.19.0
 --platform=linux/arm64 langgenius/dify-sandbox:0.2.1
 --platform=linux/arm64 ubuntu/squid:latest
+--platform=linux/arm64 searxng/searxng
