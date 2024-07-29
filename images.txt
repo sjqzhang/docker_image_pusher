@@ -11,4 +11,5 @@
 #--platform=linux/arm64 langgenius/dify-sandbox:0.2.1
 #--platform=linux/arm64 ubuntu/squid:latest
 #--platform=linux/arm64 searxng/searxng
---platform=linux/arm64 python:3.9
+#--platform=linux/arm64 python:3.9
+--platform=linux/arm64 harryliu888/audio-notes:latest
